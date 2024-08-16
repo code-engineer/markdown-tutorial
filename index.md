@@ -5,3 +5,6 @@ I have inserted a H1 header to this file. Let's see how it works.
 for i in range(1, 11, 1):
   print i
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
